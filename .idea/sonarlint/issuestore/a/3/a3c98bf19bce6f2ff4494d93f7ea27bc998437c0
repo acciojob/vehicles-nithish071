@@ -1,6 +1,6 @@
 
-|
-java:S1172"9Remove these unused method parameters "name", "isManual".(ÎæþÈ8Äû‚Óå1J$4fdf1efe-ffde-4497-86b5-38657ebcec7f
+n
+java:S1172"+Remove this unused method parameter "name".(ÎæþÈ8ÍºÜÓå1J$b369c3ee-961e-48c8-b4fa-f37c2b6c55a6
 š
 java:S3776
-"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ê±È˜üÿÿÿÿ8Æû‚Óå1J$eec08a11-8fc2-4acc-ba62-ada9a971a15c
+"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ê±È˜üÿÿÿÿ8ÏºÜÓå1J$5051d634-02a0-493a-8f87-31d1af5949fa
