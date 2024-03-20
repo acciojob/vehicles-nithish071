@@ -1,6 +1,11 @@
 
 n
-java:S1172"+Remove this unused method parameter "name".(ÎæþÈ8ÍºÜÓå1J$b369c3ee-961e-48c8-b4fa-f37c2b6c55a6
+java:S1172"+Remove this unused method parameter "name".(ÎæþÈ8Í¹³Ôå1J$0eb3a285-1f73-460f-8dd4-fb30dce19418
+p
+java:S1185
+"(Remove this method to simply inherit it.(ú›Šøøÿÿÿÿ8¦›µÔå1J$612d4017-cee3-49dc-ac32-f29d34def381
+‚
+java:S1161
+":Add the "@Override" annotation above this method signature(ú›Šøøÿÿÿÿ8’æ´Ôå1J$32b1ae0e-d52a-4393-879d-bd3b07d2f101
 š
-java:S3776
-"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ê±È˜üÿÿÿÿ8ÏºÜÓå1J$5051d634-02a0-493a-8f87-31d1af5949fa
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ê±È˜üÿÿÿÿ8Ï¹³Ôå1J$51088210-781c-4757-8f6d-1b8b1aa540ad

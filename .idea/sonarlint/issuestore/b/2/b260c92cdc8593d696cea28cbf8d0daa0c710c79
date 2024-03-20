@@ -1,3 +1,7 @@
 
-l	java:S106P"+Replace this use of System.out by a logger.(óƒè\8¶œëÓå1J$f9f5dd52-9397-47c5-80ee-2f8a7e18e939
-m	java:S106V"+Replace this use of System.out by a logger.(èÑ–¯8¸œëÓå1J$281daf7f-d64b-4a97-a655-3bda2c3a633f
+p
+java:S1185"(Remove this method to simply inherit it.(ú›Šøøÿÿÿÿ8¤ü®Ôå1J$a71ea4e2-7eef-4d08-81ff-92a0ee7c08d0
+‚
+java:S1161":Add the "@Override" annotation above this method signature(ú›Šøøÿÿÿÿ8¦ü®Ôå1J$84ffbb13-b8ea-4ee4-a6c1-d9cfb1494620
+l	java:S106T"+Replace this use of System.out by a logger.(óƒè\8ªü®Ôå1J$2a586af4-fc61-4ce1-9773-53072e349100
+m	java:S106Z"+Replace this use of System.out by a logger.(èÑ–¯8«ü®Ôå1J$9bce3eca-f11c-4596-8707-e1e8a6e2c264

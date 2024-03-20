@@ -23,6 +23,10 @@ public class Car extends Vehicle {
         return wheels;
     }
 
+    public String getName(){
+        return super.getName();
+    }
+
     public void setWheels(int wheels) {
         this.wheels = wheels;
     }

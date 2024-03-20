@@ -7,6 +7,10 @@ public class F1 extends Car {
         super("F1RedBull",4,1,7,isManual,"type",2);
     }
 
+    public String getName(){
+        return super.getName();
+    }
+
     public void accelerate(int rate){
         int newSpeed = getCurrentSpeed()+rate;//set the value of new speed by using currentSpeed and rate
         /**
