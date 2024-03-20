@@ -1,0 +1,9 @@
+
+„
+java:S1854"<Remove this useless assignment to local variable "isManual".(€ŒÍ…ùÿÿÿÿ8ÊßÖ×å1J$ba8cd1c3-59ca-41b9-91f0-37396015a6e1
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(É“ø•ÿÿÿÿÿ8ÍßÖ×å1J$8b00a51d-a9ed-4145-b1af-2a8489229fa4
+u
+java:S1481"-Remove this unused "isManual" local variable.(€ŒÍ…ùÿÿÿÿ8ÏßÖ×å1J$3a9f3775-7323-4e23-af5b-141d2b9d1ffb
+r	java:S106"+Replace this use of System.out by a logger.(ş” ÿÿÿÿÿ8ÑßÖ×å1J$7cb0185b-2f86-46e8-99a0-8c87b1ebc999
+m	java:S106"+Replace this use of System.out by a logger.(Á“á›8ÒßÖ×å1J$66c33091-afcb-4c95-b203-b3d6e557affe
+l	java:S106"+Replace this use of System.out by a logger.(áâ€8…¯Ù×å1J$c4c0a1f9-1390-471a-89e0-270dfe1364df

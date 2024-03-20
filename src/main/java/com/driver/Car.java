@@ -9,7 +9,7 @@ public class Car extends Vehicle {
     private int currentGear;
     private int seats;
 
-    public Car(String name, int wheels, int doors, int gears, boolean isManual, String type, int seats) {
+    public Car(String name, int wheels, int doors, int gears, boolean isManual, String type,int seats) {
         super(name);
         this.wheels = wheels;
         this.doors = doors;
@@ -17,14 +17,21 @@ public class Car extends Vehicle {
         this.isManual = isManual;
         this.type = type;
         this.seats = seats;
+        this.currentGear = 1;
+    }
+
+    public Car(String name, int wheels, int doors, int gears, boolean isManual, String type) {
+        super(name);
+        this.wheels = wheels;
+        this.doors = doors;
+        this.gears = gears;
+        this.isManual = isManual;
+        this.type = type;
+        this.currentGear = 1;
     }
 
     public int getWheels() {
         return wheels;
-    }
-
-    public String getName(){
-        return super.getName();
     }
 
     public void setWheels(int wheels) {
